@@ -1,0 +1,1 @@
+# sinais-candles-binarias
